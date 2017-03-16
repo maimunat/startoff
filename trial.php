@@ -20,7 +20,7 @@
 	$username = htmlspecialchars($_POST["username"]);
 	$password = htmlspecialchars($_POST["password"]);
 
-echo "username entered is: ".$username."<br>";
+echo "username entered isss: ".$username."<br>";
 echo "password entered is ".$password."<br>";
 
 } 
